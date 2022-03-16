@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Laura
-- 👀 I’m interested in Data coding and programming.
+- 👀 I’m interested in front end web development.
 - 🌱 I’m currently learning html, Css and JavaScript.
 - 💞️ I’m looking to collaborate on any of the aforementioned.
 - 📫 How to reach me Laurajinge@gmail.com
